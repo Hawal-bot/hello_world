@@ -1,6 +1,6 @@
 # hello_world
 
-I am Hawal!
+I am Hawal! and i love 📖 and 💻
 
 This is a place where things are kept 
 
